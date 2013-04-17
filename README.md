@@ -1,7 +1,7 @@
 Django App Template
 ========================
 
-This is the template that I use to create a new django project for development in a windows environment.
+This is the template that I use to start a new django app for development in a windows environment. It makes use of the template argument added to startapp command in 1.4.
 
 * admin, urls files and template, static folders created
 
