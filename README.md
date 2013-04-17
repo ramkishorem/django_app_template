@@ -7,7 +7,7 @@ This is the template that I use to create a new django project for development i
 
 * some default imports in admin, url files
 
-* 
+* reverse imported in models for get_absolute_url method
 
 To create an app with this template
 
